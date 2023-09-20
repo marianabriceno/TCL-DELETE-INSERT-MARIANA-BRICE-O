@@ -1,4 +1,4 @@
--- se insertan 8 registros nuevos en la tabla reproducciones en conjunto con los savepoint --
+-- se insertan 8 registros nuevos en la tabla albumes en conjunto con los savepoint --
 
 START TRANSACTION;
 	INSERT INTO albumes VALUES (36, 'SIEMBRA', 'RUBEN BLADES', 1978, '00:42:47');
